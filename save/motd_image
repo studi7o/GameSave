@@ -1,0 +1,44 @@
+KLEI     1 {
+	"dststeam":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-krampus-2017.tex",
+		"image_version":"16",
+		"link_title":"Visit Klei Shop",
+		"link_url":"http://bit.ly/2B19WjK"
+	},
+	"swsteam":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-krampus-2017.tex",
+		"image_version":"16",
+		"link_title":"Visit Klei Shop",
+		"link_url":"http://bit.ly/2zaoHQR"
+	},	
+	"rogsteam":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-krampus-2017.tex",
+		"image_version":"16",
+		"link_title":"Visit Klei Shop",
+		"link_url":"http://bit.ly/2Bdjn0w"
+	},
+	"steam":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-krampus-2017.tex",
+		"image_version":"16",
+		"link_title":"Visit Klei Shop",
+		"link_url":"http://bit.ly/2zbjXdE"
+	},
+	"swstandalone":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-krampus-2017.tex",
+		"image_version":"16",
+		"link_title":"Visit Klei Shop",
+		"link_url":"http://bit.ly/2hHs6iN"
+	},
+	"rogstandalone":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-krampus-2017.tex",
+		"image_version":"16",
+		"link_title":"Visit Klei Shop",
+		"link_url":"http://bit.ly/2z9Lr3e"
+	},
+	"standalone":{
+		"image_url":"https://d21wmy1ql1e52r.cloudfront.net/motd-krampus-2017.tex",
+		"image_version":"16",
+		"link_title":"Visit Klei Shop",
+		"link_url":"http://bit.ly/2hUp4eO"
+	}
+}
