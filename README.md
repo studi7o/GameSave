@@ -1,3 +1,5 @@
+![banner](banner.jpg)
+
 ## 购买地址
 
 - [Don't Starve](https://www.gog.com/game/dont_starve)
