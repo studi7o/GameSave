@@ -1,0 +1,44 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AudioSettings.EffectVolume" type="int">100</pref>
+	<pref name="AudioSettings.MasterVolume" type="int">100</pref>
+	<pref name="AudioSettings.MusicVolume" type="int">100</pref>
+	<pref name="AudioSettings.SpeakerMode" type="int">2</pref>
+	<pref name="AudioSettings.UIVolume" type="int">100</pref>
+	<pref name="AudioSettings.VoiceVolume" type="int">100</pref>
+	<pref name="CameraQualitySettings.AntiAliasing" type="int">5</pref>
+	<pref name="CameraQualitySettings.Bloom" type="int">2</pref>
+	<pref name="CameraQualitySettings.ChromaticAberration" type="int">1</pref>
+	<pref name="CameraQualitySettings.DepthOfField" type="int">2</pref>
+	<pref name="CameraQualitySettings.Dithering" type="int">1</pref>
+	<pref name="CameraQualitySettings.ScreenSpaceAmbientOcclusion" type="int">3</pref>
+	<pref name="ControlSettings.ConfineCursorToWindow" type="int">1</pref>
+	<pref name="ControlSettings.Vibration" type="int">1</pref>
+	<pref name="CurrentQualityLevelIndex" type="int">4</pref>
+	<pref name="DisplaySettings.Fullscreen" type="int">1</pref>
+	<pref name="DisplaySettings.RefreshRate" type="int">0</pref>
+	<pref name="DisplaySettings.Resolution" type="int">0</pref>
+	<pref name="DisplaySettings.VSync" type="int">3</pref>
+	<pref name="GeneralQualitySettings.AnisotropicFiltering" type="int">4</pref>
+	<pref name="GeneralQualitySettings.Decals" type="int">1</pref>
+	<pref name="GeneralQualitySettings.EnableExtraEffects" type="int">1</pref>
+	<pref name="GeneralQualitySettings.ShaderQuality" type="int">2</pref>
+	<pref name="GeneralQualitySettings.ShadowResolution" type="int">3</pref>
+	<pref name="GeneralQualitySettings.SoftShadows" type="int">1</pref>
+	<pref name="GeneralQualitySettings.TextureResolution" type="int">2</pref>
+	<pref name="GeneralSettings.ColorBlind" type="int">0</pref>
+	<pref name="GeneralSettings.ConsoleUnlockFramerate" type="int">1</pref>
+	<pref name="GeneralSettings.NoBlood" type="int">0</pref>
+	<pref name="GeneralSettings.PreferFramerateOverResolution" type="int">0</pref>
+	<pref name="GeneralSettings.Subtitles" type="int">1</pref>
+	<pref name="GeneralSettings.TextLanguage" type="int">10</pref>
+	<pref name="HasQualitySettingsSaved" type="int">1</pref>
+	<pref name="SYSTEM_LANGUAGE" type="int">0</pref>
+	<pref name="Screenmanager Is Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="unity.cloud_userid" type="string">NzMwMDkxZGFjNjJkODRlMmY4MTVjODE5OThiODZlZDI=</pref>
+	<pref name="unity.player_session_background_time" type="string">MTUxMDU2OTAxNzg2MA==</pref>
+	<pref name="unity.player_session_elapsed_time" type="string">MTgyMDIzNQ==</pref>
+	<pref name="unity.player_sessionid" type="string">NTE0MzMyODY4MDgyMDM5MzUxOQ==</pref>
+</unity_prefs>
